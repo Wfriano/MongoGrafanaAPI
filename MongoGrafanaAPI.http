@@ -1,0 +1,6 @@
+@MongoGrafanaAPI_HostAddress = http://localhost:5070
+
+GET {{MongoGrafanaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
